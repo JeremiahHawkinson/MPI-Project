@@ -1,0 +1,84 @@
+Found prime numbers up to 1000 in 5138 microseconds using 2 processes.
+Found prime numbers up to 1000 in 5170 microseconds using 2 processes.
+Found prime numbers up to 1000 in 4997 microseconds using 2 processes.
+Found prime numbers up to 1000 in 5108 microseconds using 2 processes.
+Found prime numbers up to 1000 in 6185 microseconds using 2 processes.
+Found prime numbers up to 1000 in 5020 microseconds using 2 processes.
+
+
+Found prime numbers up to 1000 in 5286 microseconds using 4 processes.
+Found prime numbers up to 1000 in 6209 microseconds using 4 processes.
+Found prime numbers up to 1000 in 5264 microseconds using 4 processes.
+Found prime numbers up to 1000 in 5426 microseconds using 4 processes.
+Found prime numbers up to 1000 in 5305 microseconds using 4 processes.
+Found prime numbers up to 1000 in 5141 microseconds using 4 processes.
+
+Found prime numbers up to 1000 in 5975 microseconds using 8 processes.
+Found prime numbers up to 1000 in 5546 microseconds using 8 processes.
+Found prime numbers up to 1000 in 6336 microseconds using 8 processes.
+Found prime numbers up to 1000 in 5928 microseconds using 8 processes.
+Found prime numbers up to 1000 in 5541 microseconds using 8 processes.
+Found prime numbers up to 1000 in 5685 microseconds using 8 processes.
+
+Found prime numbers up to 10000 in 6583 microseconds using 2 processes.
+Found prime numbers up to 10000 in 6800 microseconds using 2 processes.
+Found prime numbers up to 10000 in 6612 microseconds using 2 processes.
+Found prime numbers up to 10000 in 6565 microseconds using 2 processes.
+Found prime numbers up to 10000 in 6282 microseconds using 2 processes.
+Found prime numbers up to 10000 in 6426 microseconds using 2 processes.
+
+Found prime numbers up to 10000 in 6120 microseconds using 4 processes.
+Found prime numbers up to 10000 in 5886 microseconds using 4 processes.
+Found prime numbers up to 10000 in 6060 microseconds using 4 processes.
+Found prime numbers up to 10000 in 5986 microseconds using 4 processes.
+Found prime numbers up to 10000 in 6003 microseconds using 4 processes.
+Found prime numbers up to 10000 in 5902 microseconds using 4 processes.
+
+Found prime numbers up to 10000 in 6591 microseconds using 8 processes.
+Found prime numbers up to 10000 in 6515 microseconds using 8 processes.
+Found prime numbers up to 10000 in 6310 microseconds using 8 processes.
+Found prime numbers up to 10000 in 6371 microseconds using 8 processes.
+Found prime numbers up to 10000 in 6462 microseconds using 8 processes.
+Found prime numbers up to 10000 in 6471 microseconds using 8 processes.
+
+Found prime numbers up to 100000 in 19444 microseconds using 2 processes.
+Found prime numbers up to 100000 in 19862 microseconds using 2 processes.
+Found prime numbers up to 100000 in 19441 microseconds using 2 processes.
+Found prime numbers up to 100000 in 19730 microseconds using 2 processes.
+Found prime numbers up to 100000 in 19820 microseconds using 2 processes.
+Found prime numbers up to 100000 in 19780 microseconds using 2 processes.
+
+Found prime numbers up to 100000 in 12099 microseconds using 4 processes.
+Found prime numbers up to 100000 in 12350 microseconds using 4 processes.
+Found prime numbers up to 100000 in 12378 microseconds using 4 processes.
+Found prime numbers up to 100000 in 12340 microseconds using 4 processes.
+Found prime numbers up to 100000 in 11903 microseconds using 4 processes.
+Found prime numbers up to 100000 in 12017 microseconds using 4 processes.
+
+Found prime numbers up to 100000 in 10937 microseconds using 8 processes.
+Found prime numbers up to 100000 in 13680 microseconds using 8 processes.
+Found prime numbers up to 100000 in 10643 microseconds using 8 processes.
+Found prime numbers up to 100000 in 10966 microseconds using 8 processes.
+Found prime numbers up to 100000 in 10692 microseconds using 8 processes.
+Found prime numbers up to 100000 in 11100 microseconds using 8 processes.
+
+Found prime numbers up to 1000000 in 158323 microseconds using 2 processes.
+Found prime numbers up to 1000000 in 157643 microseconds using 2 processes.
+Found prime numbers up to 1000000 in 156715 microseconds using 2 processes.
+Found prime numbers up to 1000000 in 158357 microseconds using 2 processes.
+Found prime numbers up to 1000000 in 157975 microseconds using 2 processes.
+Found prime numbers up to 1000000 in 159448 microseconds using 2 processes.
+
+Found prime numbers up to 1000000 in 75236 microseconds using 4 processes.
+Found prime numbers up to 1000000 in 73082 microseconds using 4 processes.
+Found prime numbers up to 1000000 in 73806 microseconds using 4 processes.
+Found prime numbers up to 1000000 in 75262 microseconds using 4 processes.
+Found prime numbers up to 1000000 in 73427 microseconds using 4 processes.
+Found prime numbers up to 1000000 in 75265 microseconds using 4 processes.
+
+Found prime numbers up to 1000000 in 55033 microseconds using 8 processes.
+Found prime numbers up to 1000000 in 56284 microseconds using 8 processes.
+Found prime numbers up to 1000000 in 53527 microseconds using 8 processes.
+Found prime numbers up to 1000000 in 53534 microseconds using 8 processes.
+Found prime numbers up to 1000000 in 52147 microseconds using 8 processes.
+Found prime numbers up to 1000000 in 53196 microseconds using 8 processes.
